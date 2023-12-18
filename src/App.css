@@ -1,0 +1,17 @@
+
+.main{
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+}
+.section{
+  
+  display: flex;
+  width: 200px;
+  height: 200px;
+
+  align-items: center;
+  justify-content: center;
+}
+

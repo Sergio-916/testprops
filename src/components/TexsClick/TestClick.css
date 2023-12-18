@@ -1,0 +1,18 @@
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.onearr{
+   
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    margin: 10px;
+}
+.one_bigwindow{
+    width: 600px;
+    height: 700px;
+   
+    background-color: blueviolet;
+}
